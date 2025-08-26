@@ -4,4 +4,6 @@
 @import "./components/_card.css";
 @import "./components/_form.css";
 @import "./layout/_layout.css";
-/* estilos específicos da página atual (se necessário) */
+
+/* Área para ajustes específicos da página atual (se não quiser criar pages/_home.css) */
+body { padding: 2rem 0; }
